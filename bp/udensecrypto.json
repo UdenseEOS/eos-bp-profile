@@ -1,0 +1,42 @@
+{
+  "title": "Udense Crypto Baze Eos Dapp",
+  "tagline": {
+    "en": "To make everyone off you a crypto millionair in just weeks ",
+    "zh": ""
+  },
+  "introduce": {
+    "en": "crypto is allways free",
+    "zh": ""
+  },
+  "account_name": "udensecrypto",
+  "public_key": "EOS8GDLav74JGMK3o3GYJpK3HSNzTM7j7FzEaDkeK8roCFrafBKmY",
+  "org": {
+    "name": "udensecrypto",
+    "website": "http://udensecrypto-eosudensecrpto.azurewebsites.net",
+    "email": "scoinscomhub@hotmail.com",
+    "branding":{
+      "logo": "logo-$udenseeos.png",
+      "cover": "cover-$udenseeos.png"
+    },
+    "location": "City, Country",
+    "social_network": {
+      "steemit": "",
+      "twitter": "https://twitter.com/korte-linda",
+      "facebook": "https://www.facebook.com/udensecrypto/",
+      "github": "https://github.com/UdenseEOS",
+      "telegram": "t.me/udensecryptobot."
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "insert country code, refer to: https://countrycode.org/",
+        "name": "Country"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "http://localhost:80",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
